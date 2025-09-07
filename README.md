@@ -1,3 +1,4 @@
+
 # REAL-TIME-CHAT-APPLICATION
 COMPANY CODTECH IT SOLUTIONS
 
@@ -46,5 +47,6 @@ Responsive chat interface with message history.
 
 Screenshots of the application showcasing its functionality.
 
-
+output 
+![Image](https://github.com/user-attachments/assets/8ee429cb-560b-435f-a770-22b5fd1dd5b1)
 
